@@ -1,6 +1,6 @@
 # Brief_projet_2
 # 
-Le projet parle d'une petite Entreprise de vente des matériels Informatique, pour concevoir une base de données, numérisé ou archivé ses données
+Le projet parle d'une petite Entreprise de vente des matériels Informatique, pour concevoir une base de données et aussi numérisé ou archivé ses données
 
 ##
 1. Conception de la base de données sur mysql et ma base prend en compte neuf tables 
