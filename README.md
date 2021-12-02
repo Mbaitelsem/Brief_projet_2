@@ -20,7 +20,7 @@ Le projet parle d'une petite Entreprise de vente des matériels Informatique, po
 ##
        - Client: Commander
        - Fournisseur: Fournir
-       - Gérént: Gérér
+       - Gérént: Gérer
  ###
  ##
 - Droits:
@@ -28,5 +28,5 @@ Le projet parle d'une petite Entreprise de vente des matériels Informatique, po
 ##
       - Client: le Client a le droit de commande un ou plusieurs (1 ou n) Produit et articles
       - Fournisseur: le fournisseur a le droit de fournir un ou plusieurs (1 ou n) produits
-      - Gérant: le gérant a le droit de gérér un ou plusieurs (1 ou n) Produits et Fournisseurs
+      - Gérant: le gérant a le droit de gérer un ou plusieurs (1 ou n) Produits et Fournisseurs
   ###
